@@ -1,2 +1,2 @@
 # trueinfoseek
-Find accurate information.
+Find accurate information. Use only documented articles.
